@@ -1,8 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### React App for Bitcoin 
 
-## Available Scripts
 
-In the project directory, you can run:
+![reactbitcoin](https://user-images.githubusercontent.com/47170879/113520669-5d7b2180-95b2-11eb-8316-648066451541.jpeg)
 
 ### `npm start`
 

@@ -1,0 +1,18 @@
+button {
+  background: white;
+  border-radius: 0.5rem;
+  color: black;
+  font-size:1rem;
+  transition-duration: 0.4s;
+}
+
+button:hover{
+  background-color: #282c34;
+  color:white;
+}
+
+
+.large{
+  height:3rem;
+  width:15rem;
+}
